@@ -38,6 +38,13 @@ const registry: LocaleRegistry = [
     contributors: [],
   },
   {
+    id: 'hr-HR',
+    name: 'Hrvatski',
+    englishName: 'Croatian',
+    maintainers: [],
+    contributors: [],
+  },
+  {
     id: 'is-IS',
     name: 'Íslenska',
     englishName: 'Icelandic',
